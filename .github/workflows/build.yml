@@ -61,7 +61,7 @@ jobs:
         run: |
           yarn run release:win
           
-      - name: Build on Windows-AArch64
+      - name: Build on Windows AArch64
         if: startsWith(matrix.os, 'windows')
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
