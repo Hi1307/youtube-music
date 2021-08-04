@@ -6,12 +6,12 @@
 	"license": "MIT",
 	"repository": "th-ch/youtube-music",
 	"author": {
-		"name": "th-ch",
-		"email": "th-ch@users.noreply.github.com",
-		"url": "https://github.com/th-ch/youtube-music"
+		"name": "Hi1307",
+		"email": "Hi1307@users.noreply.github.com",
+		"url": "https://github.com/Hi1307/youtube-music"
 	},
 	"build": {
-		"appId": "com.github.th-ch.youtube-music",
+		"appId": "com.github.hi1307.youtube-music",
 		"productName": "YouTube Music",
 		"mac": {
 			"identity": null,
