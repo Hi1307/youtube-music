@@ -67,4 +67,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           set npm_config_arch=arm64
-          yarn run release:win
+          yarn run release:winarm
